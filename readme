@@ -1,0 +1,33 @@
+payload data :
+
+{
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "876543212345678",
+  "role": ["admin"]
+}
+
+--------------------------
+{
+  "username": "joko",
+  "email": "joko@gmail.com",
+  "password": "12345678987654321",
+  "role": ["user"]
+}
+
+--------------------------
+
+{
+  "username": "mod",
+  "email": "mod@gmail.com",
+  "password": "123456787654321",
+  "role": ["user","mod"]
+}
+-------------------------
+  "username": "asta",
+  "email": "asta@gmail.com",
+  "password": "123456787654321",
+  ---------------------------
+    "username": "yuno",
+  "email": "yuno@gmail.com",
+  "password": "123456787654321",
